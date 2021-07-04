@@ -68,7 +68,7 @@ p {
   border-image-slice: 2;
 }
 .experience-area{
-  background-image: url("/images/exp-bg.png");
+  background-image: url("images/exp-bg.png");
   background-position-y: 60%;
 }
 footer{
